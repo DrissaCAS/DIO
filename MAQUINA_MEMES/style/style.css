@@ -1,5 +1,5 @@
 body {
-    background: #000;
+    background: #fde6bf;
 }
 
 .box{
@@ -43,7 +43,7 @@ body {
 }
 
 .app {
-    border: 2px solid rgba(215, 215, 215, 0.412);
+    border: 2px solid rgba(239, 158, 155, 0.8);
     border-radius: 15px;
 
     padding: 50px;
@@ -51,7 +51,7 @@ body {
 
     margin-top: 5px;
 
-    background-color: #24282B;
+    background-color: #D86467;
 }
 
 textarea { 
